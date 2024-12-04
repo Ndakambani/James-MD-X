@@ -14,7 +14,7 @@ module.exports = {
   "ANTI_LINK": "false",
   "ANTI_PHOTO": "warn",
   "ANTI_STICKER": "warn",
-  "ANTI_DELETE": false,
+  "ANTI_DELETE": true,
   "DELETEMSGSENDTO": "263771195152",
   "ALWAYS_ONLINE": "true",
   "MOROCCO_BLOCK": "false",
